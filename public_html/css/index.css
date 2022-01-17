@@ -27,7 +27,7 @@
 
 @media(min-width:1070px) {
     .box-icon::before {width:36px; height:36px}
-    .card-wrap .item {flex-direction:column; text-align:center; align-items:center; padding:36px; height:100%;}
+    .card-wrap .item {flex-direction:column; text-align:center; align-items:center; padding:36px; height:100%}
     .box-icon {width:60px; height:60px; margin-right:0}
     .card-wrap .item h3 {margin-top:16px}
     .card-wrap .item p {margin-top:8px}
@@ -36,7 +36,7 @@
     .card-wrap > div {margin-bottom:4px}
 }
 
-.head-sub-text {display:flex; justify-content:space-between;}
+.head-sub-text {display:flex; justify-content:space-between;}  
 .head-sub-text h2 {color:#222; font-weight:400;}
 .head-sub-text .ico-arrow-r::after {width:8px; height:16px; margin-left:12px;}
 .head-sub-text div {display:flex;}
